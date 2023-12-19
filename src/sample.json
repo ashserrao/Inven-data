@@ -1,0 +1,92 @@
+[
+  {
+    "Index": 1,
+    "Attribute": "RAM",
+    "Option": "4GB",
+    "Item Name": "Item_385",
+    "SKU": "SKU_5932",
+    "Cost Price": 36.79,
+    "Selling Price": 78.74,
+    "Reorder Point": 23
+  },
+  {
+    "Index": 2,
+    "Attribute": "RAM",
+    "Option": "8GB",
+    "Item Name": "Item_658",
+    "SKU": "SKU_9939",
+    "Cost Price": 3.09,
+    "Selling Price": 51.97,
+    "Reorder Point": 12
+  },
+  {
+    "Index": 3,
+    "Attribute": "RAM",
+    "Option": "16GB",
+    "Item Name": "Item_382",
+    "SKU": "SKU_5737",
+    "Cost Price": 56.86,
+    "Selling Price": 47.49,
+    "Reorder Point": 47
+  },
+  {
+    "Index": 4,
+    "Attribute": "Processor",
+    "Option": "Intel",
+    "Item Name": "Item_438",
+    "SKU": "SKU_941",
+    "Cost Price": 78.41,
+    "Selling Price": 61.36,
+    "Reorder Point": 29
+  },
+  {
+    "Index": 5,
+    "Attribute": "Processor",
+    "Option": "AMD",
+    "Item Name": "Item_156",
+    "SKU": "SKU_4295",
+    "Cost Price": 63.96,
+    "Selling Price": 36.17,
+    "Reorder Point": 7
+  },
+  {
+    "Index": 6,
+    "Attribute": "Processor",
+    "Option": "Rizon",
+    "Item Name": "Item_64",
+    "SKU": "SKU_6035",
+    "Cost Price": 29.32,
+    "Selling Price": 21.19,
+    "Reorder Point": 12
+  },
+  {
+    "Index": 7,
+    "Attribute": "Disk",
+    "Option": "1TB",
+    "Item Name": "Item_348",
+    "SKU": "SKU_3858",
+    "Cost Price": 72.9,
+    "Selling Price": 70.64,
+    "Reorder Point": 23
+  },
+  {
+    "Index": 8,
+    "Attribute": "Disk",
+    "Option": "500GB",
+    "Item Name": "Item_530",
+    "SKU": "SKU_3277",
+    "Cost Price": 68.67,
+    "Selling Price": 80.47,
+    "Reorder Point": 44
+  },
+  {
+    "Index": 9,
+    "Attribute": "Disk",
+    "Option": "256GB",
+    "Item Name": "Item_490",
+    "SKU": "SKU_8792",
+    "Cost Price": 74.85,
+    "Selling Price": 38.56,
+    "Reorder Point": 34
+  }
+]
